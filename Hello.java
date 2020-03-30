@@ -1,4 +1,5 @@
 public class Hello{
+#normal
 
 	public static void main(String[] args){
 		
