@@ -1,5 +1,5 @@
 public class Hello{
-#normal
+#normal in git Hub
 
 	public static void main(String[] args){
 		
